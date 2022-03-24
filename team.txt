@@ -1,2 +1,3 @@
-Leader: Roy
-Staff: -
+Leader: Roynaldo Sitanggang
+Staff: Oke
+Done.
